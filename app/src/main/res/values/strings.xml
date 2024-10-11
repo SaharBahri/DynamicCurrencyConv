@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicCurrencyConv</string>
+        <string-array name="currencies">
+            <item>Dinar</item>
+            <item>Euro</item>
+            <item>Dollar</item>
+        </string-array>
+</resources>
